@@ -1,0 +1,1 @@
+Example of django-filter usage with django rest framework
